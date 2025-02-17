@@ -62,7 +62,7 @@
     "execa": "1.0.0",
     "isomorphic-ws": "^4.0.1",
     "js-yaml": "^3.13.1",
-    "jsonpath-plus": "^0.19.0",
+    "jsonpath-plus": "^10.3.0",
     "openid-client": "2.5.0",
     "request": "^2.88.0",
     "shelljs": "^0.8.2",
